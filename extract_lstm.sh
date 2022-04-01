@@ -1,0 +1,1 @@
+combine_tessdata -e ~/tesseract/tessdata/{lang code}.traineddata {lang code}.lstm
